@@ -1,0 +1,79 @@
+IT SUPPORT KNOWLEDGE BASE
+
+1. INTERNET NOT WORKING
+
+If a computer cannot access the internet:
+
+- Check whether Wi-Fi or Ethernet is connected.
+- Restart the Wi-Fi router if other devices also have no internet.
+- Disconnect and reconnect to the Wi-Fi network.
+- Restart the computer.
+- Run a network diagnostic.
+- Check whether the computer has received a valid IP address.
+- If the issue continues, contact the IT helpdesk.
+
+2. SLOW COMPUTER
+
+If a computer is running slowly:
+
+- Restart the computer.
+- Close unnecessary applications.
+- Check Task Manager for applications using high CPU or memory.
+- Ensure sufficient free disk space.
+- Remove unnecessary startup applications.
+- Install pending operating system updates.
+- Run an antivirus scan if suspicious activity is observed.
+
+3. PASSWORD RESET
+
+If a user forgets their password:
+
+- Use the organization's password reset procedure.
+- Verify the user's identity before resetting the password.
+- Never share passwords with other users.
+- Create a strong password containing a combination of letters, numbers, and symbols.
+- Contact the IT helpdesk if the password reset process fails.
+
+4. PRINTER NOT WORKING
+
+If a printer is not printing:
+
+- Check that the printer is powered on.
+- Check the network or USB connection.
+- Make sure the correct printer is selected.
+- Check whether the printer has paper and sufficient ink or toner.
+- Clear any stuck print jobs.
+- Restart the printer.
+- Restart the computer if necessary.
+- Contact IT support if the problem continues.
+
+5. COMPUTER NOT TURNING ON
+
+If a computer does not turn on:
+
+- Check that the power cable is connected.
+- Check the power outlet.
+- For a laptop, connect the charger.
+- Hold the power button for several seconds and try again.
+- Disconnect unnecessary external devices.
+- If the computer still does not turn on, contact IT support.
+
+6. SOFTWARE INSTALLATION
+
+When installing company software:
+
+- Use only approved software.
+- Download software from trusted sources.
+- Follow the organization's software installation policy.
+- Administrator permission may be required.
+- Contact IT support if installation fails.
+
+7. SECURITY INCIDENT
+
+If a user suspects malware, phishing, or another security incident:
+
+- Do not click suspicious links.
+- Do not provide passwords or sensitive information.
+- Disconnect the affected device from the network if instructed by IT/security policy.
+- Report the incident to the IT/security team immediately.
+- Do not delete evidence unless instructed by the security team.
